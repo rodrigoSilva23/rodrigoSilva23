@@ -16,9 +16,9 @@ Meu nome é rodrigo dos santos silva e estou a procura da primeira oportunidade 
 
 
 <p align="left">
-<img src="![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosilva23&layout=compact&count_private=true)"/>
+<img height="180em" src="![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosilva23&layout=compact&count_private=true)"/>
 
-<img src="![Github Statistics](https://github-readme-stats.vercel.app/api/?username=rodrigosilva23&count_private=true&show_icons=true)"/>
+<img height="180em" src="![Github Statistics](https://github-readme-stats.vercel.app/api/?username=rodrigosilva23&count_private=true&show_icons=true)"/>
 
 </p>
 
