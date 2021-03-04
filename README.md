@@ -1,13 +1,17 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+<p align="right" src="![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=rodrigosilva23&repo=rodrigosilva23&countColorcountColor)" <p/>
+
+
+ <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+
+Meu nome é rodrigo dos santos silva e estou a procura da primeira oportunidade de trabalho como Dev.
+
 =====================================================================================================
 
 
 
 
-Meu nome é rodrigo dos santos silva e estou a procura da primeira oportunidade de trabalho como Dev.
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=rodrigosilva23&repo=rodrigosilva23&countColorcountColor)
 
 ### Languages & Tools 🛠  
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
