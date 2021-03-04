@@ -3,7 +3,7 @@
 ==========================================================================================================================================
 
 
-My name is rodrigo dos santos silva. I work as a a procura da primeira oportunidade at null.
+Meu nome é rodrigo dos santos silva e estou a procura da primeira oportunidade de trabalho como Dev.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=rodrigosilva23&repo=rodrigosilva23&countColorcountColor)
 
@@ -17,3 +17,11 @@ My name is rodrigo dos santos silva. I work as a a procura da primeira oportunid
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=rodrigosilva23&count_private=true&show_icons=true)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rodrigosilva23&hide_border=true)
+
+### Let's connect ? 🤝
+
+<p align="left">
+<a href="https://www.linkedin.com/in/rodrigo-santos-silva-059b9a193/"><img src="https://img.shields.io/badge/-guillaumefalourd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
+<a href="mailto:rodriguinho@gmail.com"><img src="https://img.shields.io/badge/-guillaume.falourd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
