@@ -15,7 +15,12 @@ Meu nome é rodrigo dos santos silva e estou a procura da primeira oportunidade 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javaScript)&nbsp;
+![Html](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
+![css](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
+![Java Script](https://img.shields.io/badge/-Java%20Script-05122A?style=flat&logo=javaScript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
+![Next js](https://img.shields.io/badge/-Next%20Js-05122A?style=flat&logo=Next.js)&nbsp;
+
 
 
 
