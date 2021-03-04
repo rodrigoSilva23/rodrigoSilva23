@@ -21,7 +21,7 @@ Meu nome é rodrigo dos santos silva e estou a procura da primeira oportunidade 
 ### Let's connect ? 🤝
 
 <p align="left">
-<a href="https://www.linkedin.com/in/rodrigo-santos-silva-059b9a193/"><img src="https://img.shields.io/badge/-guillaumefalourd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rodrigo-santos-silva-059b9a193/"><img src="https://img.shields.io/badge/-Rodrigo dos santos silva-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
-<a href="mailto:rodriguinho@gmail.com"><img src="https://img.shields.io/badge/-guillaume.falourd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:rodriguinho@gmail.com"><img src="https://img.shields.io/badge/-rodriguinho2456@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
