@@ -30,7 +30,7 @@ Meu nome é rodrigo dos santos silva e estou a procura da primeira oportunidade 
 
 
 <p align="left">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/AVS1508" align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=rodrigosilva23&count_private=true&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigosilva23&layout=compact&langs_count=8"/>
 </a>
