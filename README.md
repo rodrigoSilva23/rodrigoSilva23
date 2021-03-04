@@ -12,11 +12,12 @@ Meu nome é rodrigo dos santos silva e estou a procura da primeira oportunidade 
 
 ### Analytics ⚙️
 
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rodrigosilva23&hide_border=true)
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosilva23&layout=compact&count_private=true)
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=rodrigosilva23&count_private=true&show_icons=true)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rodrigosilva23&hide_border=true)
+
 
 ### Let's connect ? 🤝
 
