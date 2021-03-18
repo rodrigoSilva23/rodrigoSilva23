@@ -23,6 +23,7 @@ Meu nome é rodrigo dos santos silva e estou a procura da primeira oportunidade 
 ![css](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
 ![Java Script](https://img.shields.io/badge/-Java%20Script-05122A?style=flat&logo=javaScript)&nbsp;
 ![type Script](https://img.shields.io/badge/-type%20Script-05122A?style=flat&logo=typeScript)&nbsp;
+![Cpp](https://img.shields.io/badge/-Cpp-05122A?style=flat&logo=C++)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![Next js](https://img.shields.io/badge/-Next%20Js-05122A?style=flat&logo=Next.js)&nbsp;
 
