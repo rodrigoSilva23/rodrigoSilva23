@@ -4,7 +4,7 @@
 
  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
-Meu nome é rodrigo dos santos silva e estou a procura da primeira oportunidade de trabalho como Dev.
+Meu nome é Rodrigo silva  e estou a procura da minha  primeira oportunidade de trabalho como Dev.
 
 =====================================================================================================
 
