@@ -37,7 +37,7 @@
 
 <p align="left">
 <a href="https://github.com/AVS1508" align="left">
-  <img height="160rem" src="https://github-readme-stats.vercel.app/api/?username=rodrigosilva23&count_private=true&show_icons=true"/>
+  <img height="160rem" src="https://github-readme-stats.vercel.app/api/?username=rodrigosilva23&count_private=true&show_icons=true" />
   <img height="160rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigosilva23&layout=compact&langs_count=8"/>
 </a>
 </p>
@@ -46,6 +46,6 @@
 ### Let's connect ? 🤝
 
 <p align="left">
-<a href="https://www.linkedin.com/in/rodrigo-santos-silva-059b9a193/"><img src="https://img.shields.io/badge/-Rodrigo dos santos silva-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a target="_blanck" href="https://www.linkedin.com/in/rodrigo-santos-silva-059b9a193/"><img src="https://img.shields.io/badge/-Rodrigo dos santos silva-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
 <a href="mailto:rodriguinho@gmail.com"><img src="https://img.shields.io/badge/-rodriguinho2456@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
