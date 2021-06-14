@@ -4,7 +4,7 @@
 
  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
-Meu nome é Rodrigo silva  e estou a procura da minha  primeira oportunidade de trabalho como Dev.
+<b>My name is Rodrigo Silva and I'm looking for my first job as a Dev.</b>
 
 =====================================================================================================
 
@@ -23,7 +23,7 @@ Meu nome é Rodrigo silva  e estou a procura da minha  primeira oportunidade de 
 ![css](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
 ![Java Script](https://img.shields.io/badge/-Java%20Script-05122A?style=flat&logo=javaScript)&nbsp;
 ![type Script](https://img.shields.io/badge/-type%20Script-05122A?style=flat&logo=typeScript)&nbsp;
-![Cpp](https://img.shields.io/badge/-Cpp-05122A?style=flat&logo=C++)&nbsp;
+![Cpp](https://img.shields.io/badge/-Cpp-05122A?style=flat&logo=Cpp)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![Next js](https://img.shields.io/badge/-Next%20Js-05122A?style=flat&logo=Next.js)&nbsp;
 
