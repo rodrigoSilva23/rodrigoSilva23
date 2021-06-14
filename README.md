@@ -46,6 +46,6 @@
 ### Let's connect ? 🤝
 
 <p align="left">
-<a target="_blanck" href="https://www.linkedin.com/in/rodrigo-santos-silva-059b9a193/"><img src="https://img.shields.io/badge/-Rodrigo dos santos silva-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/rodrigo-santos-silva-059b9a193/"><img src="https://img.shields.io/badge/-Rodrigo dos santos silva-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
 <a href="mailto:rodriguinho@gmail.com"><img src="https://img.shields.io/badge/-rodriguinho2456@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
