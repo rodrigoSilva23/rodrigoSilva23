@@ -1,12 +1,13 @@
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=rodrigosilva23&repo=rodrigosilva23&countColorcountColor)
 
+<div align="center">
+  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World !  </h1>
 
- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+ <b >My name is Rodrigo Silva and I'm looking for my first job as a Dev.</b>
 
-<b >My name is Rodrigo Silva and I'm looking for my first job as a Dev.</b>
-
-=======================================================================================
+  =======================================================================================
+</div>
 
 
 
@@ -36,8 +37,8 @@
 <div>
 <p align="left">
 <a href="https://github.com/AVS1508" align="left">
-  <img height="160rem" src="https://github-readme-stats.vercel.app/api/?username=rodrigosilva23&count_private=true&show_icons=true" />
-  <img height="160rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigosilva23&layout=compact&langs_count=8"/>
+  <img height="150rem" src="https://github-readme-stats.vercel.app/api/?username=rodrigosilva23&count_private=true&show_icons=true" />
+  <img height="150rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigosilva23&layout=compact&langs_count=8"/>
 </a>
 </p>
 
