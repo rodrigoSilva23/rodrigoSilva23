@@ -25,6 +25,7 @@
 ![Java Script](https://img.shields.io/badge/-Java%20Script-05122A?style=flat&logo=javaScript)&nbsp;
 ![type Script](https://img.shields.io/badge/-type%20Script-05122A?style=flat&logo=typeScript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=React)&nbsp;
 ![Next js](https://img.shields.io/badge/-Next%20Js-05122A?style=flat&logo=Next.js)&nbsp;
 
 
