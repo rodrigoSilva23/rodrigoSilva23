@@ -15,7 +15,8 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React/Next-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-   <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-20232A?style=for-the-badge&logo=laravel&logoColor=red" />
+  <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-20232A?style=for-the-badge&logo=laravel&logoColor=red" />
+  <img align="center" alt="laravel" src="https://img.shields.io/badge/Docker-143F8C?style=for-the-badge&logo=docker&logoColor=white" />
 </div><br/>
 
 
