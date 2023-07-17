@@ -22,6 +22,7 @@
 
 
 ### Últimos projetos:
+- [dslist-backend](https://github.com/rodrigoSilva23/dslist-backend)<br/>
 - [mono-challenge-intention](https://github.com/rodrigoSilva23/mono-challenge-intention)<br/>
 - [portfolio](https://www.rodrigosilvadev23.com.br/)<br/>
 - [pokemonRandow](https://randow-pokemon.vercel.app/)<br/>
