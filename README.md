@@ -22,6 +22,7 @@
 
 
 ## Últimos projetos:
+- [pgcomp-dashboard](https://github.com/pgcomp-dashboard)<br/>
 - [project-java-payment-system](https://github.com/rodrigoSilva23/project-java-payment-system)<br/>
 - [dslist-backend](https://github.com/rodrigoSilva23/dslist-backend)<br/>
 - [mono-challenge-intention](https://github.com/rodrigoSilva23/mono-challenge-intention)<br/>
